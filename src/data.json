@@ -1,0 +1,74 @@
+{
+  "chats": [{
+    "title": "Margarette"
+  }, {
+    "title": "Ivan"
+  }, {
+    "title": "Vlad"
+  }, {
+    "title": "Henry Terru"
+  }, {
+    "title": "Jack London"
+  }, {
+    "title": "Boss"
+  }, {
+    "title": "Red Bull"
+  }, {
+    "title": "Jack Johns"
+  }, {
+    "title": "Taylor"
+  }, {
+    "title": "Larry Page"
+  }, {
+    "title": "Steve"
+  }, {
+    "title": "Tim"
+  }, {
+    "title": "Hook"
+  }, {
+    "title": "Butcher Swong"
+  }],
+  "messages": [{
+    "sender": "someone",
+    "content": "Hello,"
+  }, {
+    "sender": "someone",
+    "content": "Hi!"
+  }, {
+    "sender": "me",
+    "content": "Oh, hello"
+  }, {
+    "sender": "me",
+    "content": "Something happend"
+  }, {
+    "sender": "me",
+    "content": "Everything ok"
+  }, {
+    "sender": "someone",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }, {
+    "sender": "me",
+    "content": "What does it mean?"
+  }, {
+    "sender": "someone",
+    "content": "It is a big fish-text"
+  }, {
+    "sender": "me",
+    "content": "LOL, seriasly"
+  }, {
+    "sender": "someone",
+    "content": "Maybe more ?"
+  }, {
+    "sender": "me",
+    "content": "Of cource !!"
+  }, {
+    "sender": "someone",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }, {
+    "sender": "me",
+    "content": "I can do the same!"
+  }, {
+    "sender": "me",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  }]
+}
